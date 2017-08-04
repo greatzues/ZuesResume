@@ -1,7 +1,7 @@
 # ZuesResume
 Zues personal resume website, welcome to browse :)
 
-There are the URL, click this ![zues resume](http://resume.zuesblog.xyz/ZuesResume/), if found something wrong, open Issues anytime.
+There are the URL, click this [zues resume](http://resume.zuesblog.xyz/ZuesResume/), if found something wrong, open Issues anytime.
 
 ## Features
 ---
